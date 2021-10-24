@@ -2,7 +2,7 @@ Introduction
 
 
 
-This is my 4th year graph theory project. For this project I was required to design a database for a timetabling system for our university. The database stores data about student groups, classrooms, lecturers, work hours and other data relating to timetables. This is the design document for the project.
+This is my 4th year graph theory project. For this project we were required to design a database for a timetabling system for our university. The database stores data about student groups, classrooms, lecturers, work hours and other data relating to timetables. This is the design document for the project.
 
 Understanding the problem
 
