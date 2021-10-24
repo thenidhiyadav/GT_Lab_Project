@@ -1,13 +1,22 @@
 Introduction
+
+
+
 This is my 4th year graph theory project. For this project I was required to design a database for a timetabling system for our university. The database stores data about student groups, classrooms, lecturers, work hours and other data relating to timetables. This is the design document for the project.
 
 Understanding the problem
+
+
 The timetabling problem, in its simplest form, is trying to allocate shared resources to a given timeslot. These resources include lecturers, rooms and student groups. These resources are limited and must be scheduled in such a way that they are uniquely allocated per timeslot.
 
 Understanding Neo4J
+
+
 Before trying to solve the timetabling problem it is important to first understand Neo4J and how it works.
 
 What is Neo4J?
+
+
 Neo4J is a graph database management system. Unlike relational databases, NoSQL(Not only SQL) databases do not follow a set schema. This allows the data to be more flexible. Graph databases are particularly useful for storing connections, or relationships, between data.
 
 How does Neo4J store data?
