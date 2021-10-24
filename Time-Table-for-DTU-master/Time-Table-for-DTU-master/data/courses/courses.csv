@@ -1,0 +1,309 @@
+department,course_code,title,level,year,year_code,semester,group_name
+Applied Mathematics,AARPG,Mathematical Modeling & Simulation,,4,74,,A
+Applied Mathematics,AARPG,Mathematical Modeling & Simulation,,5,75,,A
+Applied Mathematics,AARPG,Mathematical Modeling & Simulation,,6,76,,A
+Applied Mathematics,AARTG,Engineering Analysis and Design ,7,3,73,,A
+Applied Mathematics,AARTG,Stochastic Processes,7,3,73,,A
+Applied Mathematics,AARTG,Stochastic Processes,7,3,73,,A
+Applied Mathematics,AARTG,Stochastic Processes,7,3,73,,A
+Applied Mathematics,AARTG,Stochastic Processes,7,3,73,,A
+Applied Mathematics,ACONG,Mathematics I,7,1,71,1,A
+Applied Mathematics,ACONG,Mathematics I,7,1,71,1,B
+Applied Mathematics,ACONG,Mathematics I,7,1,71,1,C
+Applied Mathematics,ACONG,Mathematics I,7,1,71,2,C
+Applied Mathematics,ACONG,Mathematics I,7,2,72,3,B
+Applied Mathematics,ACONG,Mathematics I,7,2,72,3,A
+Applied Mathematics,ACONG,Mathematics I,7,2,72,4,A
+Applied Mathematics,ACONG,Mathematics I,7,2,72,4,A
+Applied Mathematics,ACONG,Mathematics I,7,2,72,4,A
+ Applied Mathematics,ACONG,Mathematical Modeling & Simulation,8,2,82,4,A
+Applied Mathematics,ACONGG,Mathematics I,7,1,71,2,A
+Applied Mathematics,ACONGG,Mathematics I,7,1,71,2,B
+Applied Mathematics,ACREG,MA-CP-1,,,95,,A
+Applied Mathematics,ACREG,MA-CP-2,,,95,,A
+Applied Mathematics,ACREG,MA-CP-3,,,95,,A
+Applied Mathematics,ACREG,MA-CP-4,,,95,,A
+Applied Mathematics,AFING,Mathematics III,8,4,84,,A
+Applied Mathematics,AFING,Financial Engineering,8,4,84,,A
+Applied Mathematics,AFING,Financial Engineering,8,4,84,,A
+Applied Mathematics,AFING,Financial Engineering,8,4,84,,A
+Applied Mathematics,DDESG,Mathematics I,7,1,71,1,D
+Applied Mathematics,DDESG,Mathematics I,7,1,71,2,D
+Applied Mathematics,DDESG,Mathematics I,7,1,71,1,E
+Applied Mathematics,DDESG,Mathematics I,7,1,71,2,E
+Applied Mathematics,DDESG,Mathematics I,7,1,71,1,F
+Applied Mathematics,DDESG,Mathematics I,7,1,71,2,F
+Applied Mathematics,DDESG,Mathematics I,7,2,72,4,A
+Applied Mathematics,DDESG,Mathematics I,7,2,72,3,C
+Applied Mathematics,DDESG,Mathematics I,7,2,72,3,D
+Applied Mathematics,DTEXT,Theory of Computation,8,4,84,,A
+Applied Mathematics,HFILG,Discreate Mathematics,8,1,81,1,A
+Applied Mathematics,HFILG8,Discreate Mathematics,8,1,1A,2,A
+Applied Mathematics,HFILG8,Discreate Mathematics,8,1,1B,2,A
+Applied Mathematics,HFILG8,Discreate Mathematics,8,1,1C,2,A
+Applied Mathematics,HFILG,Discreate Mathematics,8,2,82,3,A
+Applied Mathematics,HFILG,Discreate Mathematics,8,2,82,4,A
+Applied Mathematics,HFILG,Discreate Mathematics,8,2,82,4,B
+Applied Mathematics,HFILG,Discreate Mathematics,8,2,82,4,C
+Applied Mathematics,HFILG,Discreate Mathematics,8,3,83,5,A
+Applied Mathematics,HFITG,Graph Theory,8,3,83,6,A
+Applied Mathematics,HFITG,Graph Theory,8,3,83,6,B
+Applied Mathematics,HFITG,Graph Theory,8,3,83,6,C
+Applied Mathematics,HFITG,Graph Theory,8,3,83,,D
+Dept  Civil Engineering,EARA,Architectural Technology,,1,G1,1,A
+Dept  Civil Engineering,EARA,Architectural Technology,,1,G1,2,A
+Dept  Civil Engineering,EARA,Architectural Technology,,2,G2,,A
+Dept  Civil Engineering,EARA,Architectural Technology,,3,G3,,A
+Dept  Civil Engineering,EARAG,Architectural Technology,8,4,84,,A
+Dept  Civil Engineering,EBIMG,Engineering in Building Information Modelling,8,1,81,,A
+Dept  Civil Engineering,ECEA,Quantity Surveying and Construction Economics,,2,G2,3,A
+Dept  Civil Engineering,ECEA,Quantity Surveying and Construction Economics,,2,G2,4,A
+Dept  Civil Engineering,ECEA,Construction Economics & Quantity Surveying,,3,G3,,A
+Dept  Civil Engineering,ECEA,Construction Economics & Quantity Surveying,,3,G3,5,A
+Dept  Civil Engineering,ECEAG,Construction Economics & Quantity Surveying,8,4,84,,A
+Dept  Civil Engineering,ECEQ,Quantity Surveying and Construction Economics,,1,G1,,A
+Dept  Civil Engineering,ECIA,Civil Engineering,,1,G1,1,A
+Dept  Civil Engineering,ECIA,Civil Engineering,,1,G1,2,A
+Dept  Civil Engineering,ECIA,Civil Engineering,,2,G2,,A
+Dept  Civil Engineering,ECIA,Civil Engineering,,3,G3,5,A
+Dept  Civil Engineering,ECIA,Civil Engineering,,3,G3,6,A
+Dept  Civil Engineering,ECIVG,BEng in Civil Engineering,8,4,84,,A
+Dept  Civil Engineering,ECOM,Construction Mgmt,,1,G1,,A
+Dept  Civil Engineering,ECOM,Construction Mgmt,,2,G2,,A
+Dept  Civil Engineering,ECOM,Construction Mgmt,,3,G3,5,A
+Dept  Civil Engineering,ECOM,Construction Mgmt,,4,G4,,A
+Dept  Civil Engineering,EQSCG,Construction Economics and QS,7,,71,,A
+Dept of Computer Science,KBDIG,Object Oriented Programming,7,2,72,3,A
+Dept of Computer Science,KBDIG,Object Oriented Programming,7,2,72,4,A
+Dept of Computer Science,KBDIG,Object Oriented Programming,7,3,73,5,A
+Dept of Computer Science,KBDIG,Object Oriented Programming,7,3,73,6,A
+Dept of Computer Science,KCDMG,Object Oriented Programming,7,1,71,1,A
+Dept of Computer Science,KCDMG,Object Oriented Programming,7,1,71,2,A
+Dept of Computer Science,KCDMG,Object Oriented Programming,8,1,81,1,A
+Dept of Computer Science,KCDMG,Object Oriented Programming,8,1,81,2,A
+Dept of Computer Science,KCDMG,Computing and Digital Media,8,4,84,7,A
+Dept of Computer Science,KCDMG,Computing and Digital Media,8,4,84,8,A
+Dept of Computer Science,KITAG,Information Technology for Business,8,4,84,7,A
+Dept of Computer Science,KITAG,Information Technology for Business,8,4,84,8,A
+Dept of Computer Science,KSOAG,Data Structures,8,1,81,,A
+Dept of Computer Science,KSOAG,Data Structures,8,1,81,2,A
+Dept of Computer Science,KSOAG,Data Structures,8,2,82,3,A
+Dept of Computer Science,KSOAG,Data Structures,8,2,82,4,A
+Dept of Computer Science,KSOF,Computing in Software Development,,1,G1,2,A
+Dept of Computer Science,KSOFG,Computing in Software Development,7,1,71,1,A
+Dept of Computer Science,KSOFG,Operating Systems Design,7,2,72,3,A
+Dept of Computer Science,KSOFG,Operating Systems Design,7,2,72,4,A
+Dept of Computer Science,KSOFG,Computing in Software Development,7,3,73,5,A
+Dept of Computer Science,KSOFG,Computing in Software Development,7,3,73,6,A
+Dept of Computer Science,KSOFGH,Operating Systems Design,8,4,84,7,A
+Dept of Computer Science,KSOFGH,Operating Systems Design,8,4,84,8,A
+Dept of Computer Science,KSOFGL, Science Software Development,8,4,84,,A
+Dept of Computer Science,KSOFGL, Science Software Development,8,4,84,,A
+Dept of Computer Science,KSOFN,Computing in Software Development,6,2,62,3,A
+Dept of Computer Science,KSOFN,Computing in Software Development,6,2,62,4,A
+Dept of Computer Science,M,Web Technologies and Programming,7,1,ay,1,A
+Dept of Computer Science,D,Web Technologies and Programming,7,1,ec,,A
+Dept of Software Engineering, Springboa,OOPS,6,1,rd,1,A
+Dept of Software Engineering, Springboa,OOPS,6,1,rd,2,A
+Dept of Software Engineering,FPCTG,Algorithm Design & Analysis,6,2,62,,A
+Dept of Software Engineering,FTICG,Algorithm Design & Analysis,6,1,61,1,A
+Dept of Software Engineering,FTICG,Algorithm Design & Analysis,6,1,61,2,A
+Dept of Software Engineering, os-143,Operating System,6,1,al,1,A
+Dept of Software Engineering, os-143,Operating System,6,1,al,2,A
+Dept of Software Engineering, os-143,Operating System,6,2,al,3,A
+Dept of Software Engineering, os-143,Operating System,6,2,al,4,A
+Dept of Software Engineering,OCULG,Algorithm Design & Analysis,7,1,71,1,A
+Dept of Software Engineering,OCULG,Algorithm Design & Analysis,7,1,71,2,A
+Dept of Software Engineering,OCULG,Algorithm Design & Analysis,7,2,72,3,A
+Dept of Software Engineering,OCULG,Algorithm Design & Analysis,7,2,72,4,A
+Dept of Software Engineering,OCULG,Algorithm Design & Analysis,7,3,73,6,A
+Dept of Software Engineering,OCULG,Algorithm Design & Analysis,8,4,84,7,A
+Dept of Software Engineering,OCULG,Algorithm Design & Analysis,8,4,84,8,A
+Dept of Software Engineering,OCUPG,Software Testing,7,1,71,1,A
+Dept of Software Engineering,OCUPG,Software Testing,7,1,71,2,A
+Dept of Software Engineering,OCUPG,Software Testing,7,2,72,3,A
+Dept of Software Engineering,OCUPG,Software Testing,7,2,72,4,A
+Dept of Software Engineering,OCUPG,Software Testing,7,3,73,5,A
+Dept of Software Engineering,OCUPG,Software Testing,7,3,73,,A
+Dept of Electronic and Electrical Engineering,,Electrical Installation 4A,,,4A,,A
+Dept of Electronic and Electrical Engineering,,Electrical Installation 4B,,,4B,,A
+Dept of Electronic and Electrical Engineering,,Electrical Installation 6A,,,6A,,A
+Dept of Electronic and Electrical Engineering,,Electrical Installation 6B,,,6B,,A
+Dept of Electronic and Electrical Engineering,ECOEG,Computer & Electronic Eng,8,4,84,,A
+Dept of Electronic and Electrical Engineering,ECOEG,Computer & Electronic Eng,8,5,85,,A
+Dept of Electronic and Electrical Engineering,ECOEG,Computer & Electronic Eng,8,5,85,9,A
+Dept of Electronic and Electrical Engineering,,Computer & Electronic Eng,7,1,A,1,A
+Dept of Electronic and Electrical Engineering,,Computer & Electronic Eng,7,1,A,2,A
+Dept of Electronic and Electrical Engineering,,Computer & Electronic Eng,7,1,B,1,B
+Dept of Electronic and Electrical Engineering,,Computer & Electronic Eng,7,1,B2,2,B
+Dept of Electronic and Electrical Engineering,,Computer & Electronic Eng,7,1,C,1,C
+Dept of Electronic and Electrical Engineering,,Computer & Electronic Eng,7,1,C,2,C
+Dept of Electronic and Electrical Engineering,,Computer & Electronic Eng,7,2,A,3,A
+Dept of Electronic and Electrical Engineering,,Computer & Electronic Eng,7,2,A,4,A
+Dept of Electronic and Electrical Engineering,, Computer & Electronic Eng,7,2,B,3,B
+Dept of Electronic and Electrical Engineering,, Computer & Electronic Eng,7,2,B,4,B
+Dept of Electronic and Electrical Engineering,,Computer & Electronic Eng,7,2,C,3,C
+Dept of Electronic and Electrical Engineering,,Computer & Electronic Eng,7,2,C,4,C
+Dept of Electronic and Electrical Engineering,,Computer & Electronic Eng,7,3,A,5,A
+Dept of Electronic and Electrical Engineering,,Computer & Electronic Eng,7,3,A,6,A
+Dept of Electronic and Electrical Engineering,,Computer & Electronic Eng,7,3,B,5,B
+Dept of Electronic and Electrical Engineering,,Computer & Electronic Eng,7,3,B,6,B
+Dept of Electronic and Electrical Engineering,EINAG,Industrial Automation,7,1,71,,A
+Dept of Electronic and Electrical Engineering,EINAG,Industrial Automation,7,2,72,,A
+Dept of Electronic and Electrical Engineering,EITNG,IT Networking,7,1,71,1,A
+Dept of Electronic and Electrical Engineering,EITNG,IT Networking,7,1,71,1,A
+Dept of Electronic and Electrical Engineering,EITNG,IT Networking,7,2,72,3,A
+Dept of Electronic and Electrical Engineering,EITNG,IT Networking,7,2,72,3,A
+Dept of Electronic and Electrical Engineering,ESAEG,Electrical Services & Automation Eng,7,1,71,,A
+Dept of Electronic and Electrical Engineering,ESAEG,Electrical Services & Automation Eng,7,2,72,3,A
+Dept of Electronic and Electrical Engineering,ESAEG,Electrical Services & Automation Eng,7,2,72,4,A
+Dept of Electronic and Electrical Engineering,ESAEG,Electrical Services & Automation Eng,7,3,73,5,A
+Dept of Electronic and Electrical Engineering,ESAEG,Electrical Services & Automation Eng,7,3,73,,A
+Dept of Environmental Engineering,HHERG,Strength of Materials,7,1,71,1,A
+Dept of Environmental Engineering,HHERG,Strength of Materials,7,1,71,2,A
+Dept of Environmental Engineering,HHERG,Strength of Materials,7,2,72,3,A
+Dept of Environmental Engineering,HHERG,Strength of Materials,7,2,72,4,A
+Dept of Environmental Engineering,HHERG,Strength of Materials,7,3,73,5,A
+Dept of Environmental Engineering,HHERG,Strength of Materials,7,3,73,6,A
+Dept of Environmental Engineering,HHERG,Strength of Materials,8,1,81,1,A
+Dept of Environmental Engineering,HHERG,Strength of Materials,8,1,81,2,A
+Dept of Environmental Engineering,HHERG,Strength of Materials,8,2,82,3,A
+Dept of Environmental Engineering,HHERG,Strength of Materials,8,2,82,4,A
+Dept of Environmental Engineering,HHERG,Strength of Materials,8,3,83,5,A
+Dept of Environmental Engineering,HHERG,Strength of Materials,8,3,83,6,A
+Dept of Environmental Engineering,HHERG,Strength of Materials,8,4,84,7,A
+Dept of Environmental Engineering,HHERG,Strength of Materials,8,4,84,8,A
+Dept of Environmental Engineering,HRELG,Fluid Mechanics & Hydraulic Mechines,7,2,72,,A
+Dept of Environmental Engineering,HRELG,Fluid Mechanics & Hydraulic Mechines,7,2,72,,A
+Dept of Environmental Engineering,OTOUG,Instrumentation Techniques for Environmental Monitoring,6,1,61,1,A
+Dept of Environmental Engineering,OTOUG,Instrumentation Techniques for Environmental Monitoring,6,2,62,3,A
+Dept of Environmental Engineering,OTOUG,Instrumentation Techniques for Environmental Monitoring,6,2,62,4,A
+Dept of Environmental Engineering,OTOUG,Engineering & Environmental Surveying,7,1,71,1,A
+Dept of Environmental Engineering,OTOUG,Engineering & Environmental Surveying,7,1,71,2,A
+Dept of Environmental Engineering,OTOUG,Engineering & Environmental Surveying,7,2,72,3,A
+Dept of Environmental Engineering,OTOUG,Engineering & Environmental Surveying,7,2,72,4,A
+Dept of Environmental Engineering,OTOUG,Engineering & Environmental Surveying,7,3,73,5,A
+Dept of Environmental Engineering,OTOUG,Engineering & Environmental Surveying,7,3,73,6,A
+Dept of Environmental Engineering,SMHMG,Fluid Mechanics & Hydraulic Mechines,,5,59,,A
+Dept of Mechanical and Industrial Engineering,,Energy Eng,,1,F,1,F
+Dept of Mechanical and Industrial Engineering,,Energy Eng,,1,H,1,H
+Dept of Mechanical and Industrial Engineering,EENE, Energy Eng,,2,G2,3,A
+Dept of Mechanical and Industrial Engineering,EENE,Energy Eng,,3,G3,5,A
+Dept of Mechanical and Industrial Engineering,,Energy Eng,7,1,A,2,F
+Dept of Mechanical and Industrial Engineering,,Energy Eng,7,1,B,2,H
+Dept of Mechanical and Industrial Engineering,, Energy Eng,7,2,A,4,A
+Dept of Mechanical and Industrial Engineering,, Energy Eng,7,3,A,6,A
+Dept of Mechanical and Industrial Engineering,EENEG, Energy Eng,8,4,84,7,A
+Dept of Mechanical and Industrial Engineering,EENEG, Energy Eng,8,4,84,8,A
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,,1,A,1,A
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,,1,B,1,B
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,,1,C,1,C
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,,1,D,1,D
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,,1,E,1,E
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,,1,F,1,F
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,,3,A,5,A
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,,3,B,5,B
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,,3,C,5,C
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,7,1,A,2,A
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,7,1,B,2,B
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,7,1,C,2,C
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,7,1,D,2,D
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,7,1,E,2,E
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,7,2,A,3,A
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,7,2,A,4,A
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,7,2,B,3,B
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,7,2,B,4,B
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,7,2,C,3,C
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,7,2,C,4,C
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,7,2,D,3,D
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,7,2,D,4,D
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,7,3,A,6,A
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,7,3,B,6,B
+Dept of Mechanical and Industrial Engineering,,Mechanical Eng,7,3,C,6,C
+Dept of Mechanical and Industrial Engineering,EMECG,Mechanical Eng,8,4,84,7,A
+Dept of Mechanical and Industrial Engineering,EMECG,Mechanical Eng,8,4,84,8,A
+Dept of Mechanical and Industrial Engineering,EMOM,Motor Engineering Phase 6,,,E6,,A
+Dept of Bio-Technology,BACAG,Biochemistry,9,5,95,,A
+Dept of Bio-Technology,BACAG,Biochemistry,9,5,95,,A
+Dept of Bio-Technology,BACCG,Biochemical Engineering Principles,8,1,81,1,A
+Dept of Bio-Technology,BACCG,Biochemical Engineering Principles,8,1,81,2,A
+Dept of Bio-Technology,BACCG,Biochemical Engineering Principles,8,2,82,3,A
+Dept of Bio-Technology,BACCG,Biochemical Engineering Principles,8,2,82,4,A
+Dept of Bio-Technology,BACCG,Biochemical Engineering Principles,8,3,83,5,A
+Dept of Bio-Technology,BACCG,Biochemical Engineering Principles,8,3,83,6,A
+Dept of Bio-Technology,BACCG,Engineering Analysis and Design,9,5,95,,A
+Dept of Bio-Technology,BACCG,Engineering Analysis and Design,9,5,95,,A
+Dept of Bio-Technology,BADIG,Engineering Analysis and Design,7,3,73,5,A
+Dept of Bio-Technology,BADIG,Engineering Analysis and Design,7,3,73,6,A
+Dept of Bio-Technology,BBISG,Molecular Biology,7,1,71,1,A
+Dept of Bio-Technology,BBISG,Molecular Biology,7,1,71,2,A
+Dept of Bio-Technology,BBISG,Molecular Biology,7,2,72,3,A
+Dept of Bio-Technology,BBISG,Molecular Biology,7,2,72,4,A
+Dept of Bio-Technology,BBISG,Microbiology,8,1,81,1,A
+Dept of Bio-Technology,BBISG,Microbiology,8,1,81,2,A
+Dept of Bio-Technology,BBISG,Microbiology,8,2,82,3,A
+Dept of Bio-Technology,BBISG,Microbiology,8,2,82,4,A
+Dept of Bio-Technology,BINAG,Structural Biology,8,3,83,5,A
+Dept of Bio-Technology,BINAG,Structural Biology,8,3,83,6,A
+Dept of Bio-Technology,BINSG,Structural Biology,8,4,84,7,A
+Dept of Bio-Technology,BINSG,Structural Biology,8,4,84,,A
+Dept of Management,BBENG,BB IN Entrepreneurship,7,1,71,1,A
+Dept of Management,BBENG,BB in Entrepreneurship,7,1,71,2,A
+Dept of Management,BBENG, Business in  Entrepreneurship,7,2,72,3,A
+Dept of Management,BBENG, Business in Entrepreneurship,7,2,72,4,A
+Dept of Management,BBENG,Business in Entrepreneurship,8,1,81,1,A
+Dept of Management,BBENG,Business in Entrepreneurship,8,1,81,2,A
+Dept of Management,BBENG,Business in Entrepreneurship,8,2,82,3,A
+Dept of Management,BBENG, Business in Entrepreneurship,8,2,82,4,A
+Dept of Management,BBUAG,Business,8,1,81,1,A
+Dept of Management,BBUAG,Business,8,1,81,2,A
+Dept of Management,BBUAG,Business,8,2,82,3,A
+Dept of Management,BBUAG,Business,8,2,82,4,A
+Dept of Management,BBUAG,Business in Human Resources Management,8,3,83,5,A
+Dept of Management,BBUAG,Business in Human Resources Management,8,3,83,6,A
+Dept of Management,BBUAG,Business in Information Technology,8,3,83,5,A
+Dept of Management,BBUAG,Business in Information Technology,8,3,83,6,A
+Dept of Management,BBUAG,Business in Finance and Marketing,8,3,83,5,A
+Dept of Management,BBUAG,Business in Finance and Marketing,8,3,83,6,A
+Dept of Management,BBUSG, Business,7,1,71,2,A
+Dept of Management,BBUSG,Business,7,1,71,1,A
+Dept of Management,BBUSG,Business L7 & BBUAG82 BB in Business,8,2,72,4,A
+Dept of Management,BBUSG,Business,7,2,72,3,A
+Dept of Management,BBUSG,Human Resources Management,7,3,73,5,A
+Dept of Management,BBUSG,Human Resources Management,7,3,73,6,A
+Dept of Management,BBUSG, Business Information Technology,7,3,73,5,A
+Dept of Management,BBUSG, Business in Information Technology,7,3,73,6,A
+Dept of Management,BBUSG,Business in Finance and Marketing,7,3,73,5,A
+Dept of Management,BBUSG,Business in Finance and Marketing,7,3,73,6,A
+Dept of Management,BBUSG,Bachelor of Business in Economics & Finance,8,4,84,7,A
+Dept of Management,BBUSG,Bachelor of Business in HRM,8,4,84,7,A
+Dept of Management,BBUSG,Bachelor of Business in Management,8,4,84,7,A
+Dept of Management,BBUSG,Business in Finance and Marketing,8,4,84,7,A
+Dept of Management,BBUSG,Bachelor of Business in Rural Enterprise,8,4,84,7,A
+Dept of Management,BBUSS,Bachelor of Business in Economics & Finance,8,4,84,8,A
+Dept of Management,BBUSS,Bachelor of Business in HRM,8,4,84,8,A
+Dept of Management,BBUSS,Business in Finance and Marketing,8,4,84,8,A
+Dept of Management,BBUSS,Business in Mgmt,8,4,84,8,A
+Dept of Management,BBUSS,Business in Rural Enterprise,8,4,84,8,A
+Dept of Management,BFING,Business in Finance and Economics,,1,71,1,A
+Dept of Management,BFING,Business in Finance and Economics,,1,71,1,A
+Dept of Management,BFING,Business in Finance and Economics,,2,72,3,A
+Dept of Management,BFING,Business in Finance and Economics,,2,72,4,A
+Dept of Management,BFING,Business in Finance ,8,1,81,1,A
+Dept of Management,BFING,Business in Finance ,8,1,81,1,A
+Dept of Management,BFING,Business in Finance ,8,2,82,3,A
+Dept of Management,BFING,Business in Finance ,8,2,82,4,A
+Dept of Management,BMASG,Business in Finance and Marketing,7,1,71,1,A
+Dept of Management,BMASG,Business in Finance and Marketing,7,1,71,1,A
+Dept of Management,BMASG,Business in Finance and Marketing,7,2,72,3,A
+Dept of Management,BMASG,Business in Finance and Marketing,7,2,72,4,A
+Dept of Management,BMASG, Business in Marketing,8,1,81,1,A
+Dept of Management,BMASG, Business in Marketing,8,1,81,1,A
+Dept of Management,BMASG, Business in Marketing,8,2,82,3,A
+Dept of Management,BMASG, Business in Marketing,8,2,82,4,A
+Dept of Management,Busine,Rural Enterprise & Agri-Business,7,1,ss,1,A
+Dept of Management,Busine,Rural Enterprise & Agri-Business,7,1,ss,2,A
+Dept of Management,Busine,Rural Enterprise & Agri-Business,7,2,ss,3,A
+Dept of Management,Busine,Rural Enterprise & Agri-Business,7,2,ss,4,A
+Dept of Management,Busine,Rural Enterprise & Agri-Business,7,3,ss,5,A
+Dept of Management,Busine,Rural Enterprise & Agri-Business,7,3,ss,,A

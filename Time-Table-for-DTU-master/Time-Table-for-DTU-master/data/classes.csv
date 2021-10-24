@@ -1,0 +1,52 @@
+semester,day,start,end,room,course,year_code,module_name,group_name,type
+7,1,9,11,TW1-GF2,MC-401,73,Graph Theory,A,P
+7,1,11,12,TW1-GF2,MC-402,73,Crytography & Network Security,A,P
+7,1,12,13,TW1-GF2,MC-403,73,Data Mining and Warehousing,C,P
+7,1,13,14,TW1-GF2,MC-404,73,Operating Systems 1,B,P
+7,1,15,16,TW1-GF2,MC-405,73,Graphics Programming,,L
+7,1,16,17,TW1-GF2,MC-406,73,MNS,,L
+7,1,17,18,TW1-GF2,MC-407,73,Object Oriented Programming,,L
+7,1,9,11,TW1-GF2,MC-408,73,Crytography & Network Security,B,P
+7,2,9,11,TW1-GF2,MC-409,73,Graph Theory,A,P
+7,2,11,13,TW1-GF2,MC-410,73,Operating Systems 1,B,P
+7,2,14,16,TW1-GF2,MC-411,73,Crytography & Network Security,C,P
+7,2,17,20,941,MC-412,73,Data Mining and Warehousing,,L
+7,2,9,11,TW1-GF3,MC-413,73,Operating Systems 1,C,P
+7,2,11,13,TW1-GF3,MC-414,73,Graphics Programming,C,P
+7,2,15,16,TW1-GF3,MC-415,73,Data Mining and Warehousing,A,P
+7,3,9,11,TW1-GF3,MC-416,73,MNS,A,P
+7,3,11,12,995,MC-417,73,Operating Systems 1,,L
+7,3,12,13,1039,MC-418,73,Graph Theory,,L
+7,3,15,16,1000,MC-419,73,Object Oriented Programming,,L
+7,3,16,18,TW1-GF3,MC-420,73,Operating Systems 1,A,P
+7,3,9,11,TW1-GF1,MC-421,73,Crytography & Network Security,C,P
+7,4,13,14,TW1-GF3,MC-422,73,Operating Systems 1,C,P
+7,4,12,13,996,MC-423,73,Object Oriented Programming,,L
+7,4,13,14,TW1-GF3,MC-424,73,Graph Theory,B,P
+7,4,15,16,903,MC-425,73,MNS,,L
+7,4,17,18,995,MC-426,73,Operating Systems 1,,L
+7,5,9,11,TW1-GF3,MC-427,73,Graphics Programming,B,P
+8,1,14,15, Prefab 05,MC-428,73,Graph Theory,A,P
+8,1,16,18,TW1-GF1,MC-429,73,Software Testing,A,P
+8,1,10,11,994,MC-430,73,Database Management,,L
+8,1,12,14,223,MC-431,73,Training Seminar,,L
+8,1,16,18,TW1-GF1,MC-432,73,Minor Project,C,P
+8,2,11,1,TW1-GF1,MC-433,73,Database Management,C,P
+8,2,9,11,TW1-GF1,MC-434,73,Data Mining and Warehousing,C,P
+8,2,11,13,0470 Computing Practical Lab,MC-435,73,Training Seminar,A,P
+8,2,14,16,TW1-GF1,MC-436,73,Software Testing,B,P
+8,2,16,18,TW1-GF1,MC-437,73,Minor Project,B,P
+8,2,9,11,TW1-GF1,MC-438,73,Database Management,A,P
+8,2,12,13,379,MC-439,73,Graph Theory,B,P
+8,3,9,10,162,MC-440,73,Graph Theory,C,P
+8,3,10,11,938,MC-441,73,Graph Theory,,L
+8,3,11,12,208,MC-442,73,Minor Project,,L
+8,3,13,14,997,MC-443,73,Crytography & Network Security,,L
+8,3,14,15,994,MC-444,73,Data Mining and Warehousing,,L
+8,3,15,16,939,MC-445,73,Software Testing,,L
+8,3,16,17,995,MC-446,73,Database Management,,L
+8,4,9,11, Prefab 18,MC-447,73,MNS,B,P
+8,4,11,13, Prefab 18,MC-448,73,Crytography & Network Security,C,P
+8,4,14,16,TW1-GF1,MC-449,73,Training Seminar,A,P
+8,5,9,11,TW1-GF3,MC-450,73,Database Management,B,P
+8,5,11,12,208,MC-451,73,Graph Theory,,L

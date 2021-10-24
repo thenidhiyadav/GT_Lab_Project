@@ -1,0 +1,85 @@
+CREATE (c:College {name: "DTU"});
+
+LOAD CSV WITH HEADERS FROM "file:///rooms.csv" AS line
+MERGE (r:Room { name: line.name, capacity: toInteger(line.capacity) })
+MERGE (c:Campus { name: line.campus })
+MERGE (c)-[:HAS]->(r);
+
+MATCH (col:College {name: "DTU"}), (c:Campus)
+CREATE (col)-[:HAS]->(c);
+
+LOAD CSV WITH HEADERS FROM "file:///departments.csv" AS line
+MERGE (d:Department { name: line.name })
+MERGE (c:Campus { name: line.campus })
+MERGE (c)-[:HAS]->(d);
+
+LOAD CSV WITH HEADERS FROM "file:///courses.csv" AS line
+MATCH (d:Department { name: line.department })
+MERGE (c:Course { course_code: line.course_code })
+SET c.title = line.title
+SET c.level = toInteger(line.level)
+MERGE (d)-[:RUNS]->(c)
+MERGE (c)-[:ENROLLS]->(y:Year_Group { year_code: line.year_code })
+SET y.year = toInteger(line.year);
+
+LOAD CSV WITH HEADERS FROM "file:///lecturers.csv" AS line
+CREATE (l:Lecturer { id: line.id, name: line.name, work_hours: toInteger(line.work_hours) })
+MERGE (d:Department { name: line.department })
+MERGE (d)-[:EMPLOYS]->(l);
+
+LOAD CSV WITH HEADERS FROM "file:///modules.csv" AS line
+WITH line, split(substring(line.lecturers, 1, size(line.lecturers) -7), ",") AS lecturers 
+UNWIND lecturers AS lecturer_name
+MATCH (c:Course { course_code: "KSOFG", level: 7 })-[r]->(y:Year_Group { year: 3 })
+MERGE (m:Module { module_code: line.module_code, name: line.name, semester: toInteger(line.semester) })
+MERGE (y)-[:STUDIES]->(m)
+MERGE (l:Lecturer { name: lecturer_name })
+MERGE (l)-[:TEACHES]->(m);
+
+LOAD CSV WITH HEADERS FROM "file:///classes.csv" AS line
+MATCH (r:Room { name: line.room })
+MATCH (m:Module { name: line.module_name })
+CREATE (cl:Class { day: toInteger(line.day), start: toInteger(line.start), end: toInteger(line.end), group: line.group_name, type: line.type })
+MERGE (m)-[:SUBJECT_OF]->(cl)
+MERGE (r)-[:HOSTS]->(cl);
+
+//to watch entire graph
+:config initialNodeDisplay:1000
+MATCH (n)-[r]->(m) RETURN n, r, m;
+
+
+
+////////////Room timetable
+MATCH (room:Room { name: "TW1-GF3" })-[hosts:HOSTS]->(class:Class)
+MATCH (module:Module { semester: 7 })-[subject_of:SUBJECT_OF]->(class:Class)
+RETURN room, class, module
+ORDER BY class.day, class.start;
+
+MATCH (campus:Campus { name: "DEPARTMENT1" })-[r]->(room:Room)
+WHERE room.capacity >= 20
+OPTIONAL MATCH (room)-[r1:HOSTS]->(class:Class)<-[r2:SUBJECT_OF]-(module:Module { semester: 7 })
+WITH room, COLLECT(class) AS classes
+WHERE ALL(class IN classes
+WHERE class.day <> 3 OR
+(10 < class.start AND 11 <= class.start) 
+OR (11 > class.end AND 10 >= class.end))
+RETURN DISTINCT room
+ORDER BY room.capacity;
+
+MATCH (course:Course { course_code: "KSOFG" })-[r1:ENROLLS]->(year:Year_Group { year: 3 })
+MATCH (year)-[studies:STUDIES]->(module:Module { semester: 2 })
+MATCH (module)-[subject_of:SUBJECT_OF]->(class:Class)
+MATCH (room:Room)-[hosts:HOSTS]->(class:Class)
+RETURN year, module, class, room
+ORDER BY class.day, class.start;
+
+MATCH (lecturer:Lecturer { name: "Payal Ma'am" })-[teaches:TEACHES]->(module:Module { semester: 7 })
+MATCH (module)-[subject_of:SUBJECT_OF]->(class:Class)
+MATCH (room:Room)-[hosts:HOSTS]->(class)
+RETURN lecturer, module, class
+ORDER BY class.day, class.start;
+
+MATCH (lecturer:Lecturer { name: "Payal Ma'am" })-[teaches:TEACHES]->(module:Module { semester: 7 })
+MATCH (module)-[subject_of:SUBJECT_OF]->(class:Class)
+MATCH (room:Room)-[hosts:HOSTS]->(class)
+RETURN SUM(class.end - class.start) AS working_hours;
